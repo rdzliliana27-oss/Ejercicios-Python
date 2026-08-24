@@ -1,5 +1,5 @@
 def main():
-    print("_________ CALCULAR PAGA EXTRA _________")
+    print("_________ CALCULAR PAGA EXTRA 💰 _________")
 
     nombre = input("Nombre del trabajador: ")
     horas = int(input("Horas trabajadas: "))
@@ -11,10 +11,11 @@ def main():
     paga_extra = horas_extra * paga_por_hora * 2
     total = paga_normal + paga_extra
 
+    print("✅ Calculo completado.")
     print(f"El trabajador {nombre} trabajo {horas_normales} horas normales y {horas_extra} extra.")
-    print(f"Paga normal: ${paga_normal:,.2f}")
-    print(f"Paga extra: ${paga_extra:,.2f}")
-    print(f"Pago total: ${total:,.2f}")
+    print(f"💵 Paga normal: ${paga_normal:,.2f}")
+    print(f"💵 Paga extra: ${paga_extra:,.2f}")
+    print(f"💰 Pago total: ${total:,.2f}")
 
 
 if __name__ == "__main__":
