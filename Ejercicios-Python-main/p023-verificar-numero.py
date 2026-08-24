@@ -1,3 +1,8 @@
+# ejercicio 23: Verificar número
+# Escribe un programa que solicite al usuario ingresar un número entero. El programa debe verificar
+# si el número es positivo, negativo o cero, y mostrar un mensaje correspondiente en cada caso.
+
+
 def main():
     print("_________ VERIFICAR NUMERO _________")
 

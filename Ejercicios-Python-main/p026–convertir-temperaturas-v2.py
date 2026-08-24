@@ -1,3 +1,9 @@
+# ejercicio 26: Convertir temperaturas v2
+# Escribe un programa que solicite al usuario ingresar una temperatura en grados Celsius o Fahrenheit.
+# El programa debe convertir la temperatura a la otra unidad y mostrar el resultado.
+# El usuario debe indicar si la temperatura ingresada está en Celsius o Fahrenheit mediante una opción de menú.
+
+
 def main():
     print("_________ CONVERTIR TEMPERATURAS _________")
     print("[C] Convertir Fahrenheit a Celsius")

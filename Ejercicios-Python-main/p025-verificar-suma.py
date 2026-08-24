@@ -1,3 +1,6 @@
+## Ejercicio 25: Verificar suma de dos números
+# Escribe un programa que solicite al usuario ingresar tres números enteros. El programa debe verificar si la suma de los dos primeros números es igual al tercer número. Si la suma es igual, el programa debe imprimir un mensaje indicando que la suma es correcta; de lo contrario, debe indicar que la suma es incorrecta.
+
 def main():
     print("_________ VERIFICAR SUMA _________")
 
