@@ -4,11 +4,11 @@ def main():
     numero = int(input("Ingrese un numero entero: "))
 
     if numero > 0:
-        print("El numero es POSITIVO.")
+        print("El numero es POSITIVO 👍.")
     if numero < 0:
-        print("El numero es NEGATIVO.")
+        print("El numero es NEGATIVO 👎.")
     if numero == 0:
-        print("El numero es CERO.")
+        print("El numero es CERO 😐.")
 
     print("Aqui terminamos de tomar decisiones.")
 
