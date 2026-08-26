@@ -1,3 +1,6 @@
+# Ejercicio 29: Calculadora de descuento
+# Escribe un programa que solicite al usuario ingresar el total de su compra. El programa debe calcular el descuento aplicable según el siguiente criterio:
+# - Si la compra es mayor a $2000, aplicar un descuento del 20%.
 def main():
     print("_________ CALCULADORA DE DESCUENTO _________")
 
