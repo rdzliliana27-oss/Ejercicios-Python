@@ -4,7 +4,7 @@
 - Prueba.py
 - programa
 - otro
-## Actividad 3 Elementos de Python 
+## Actividad  Elementos de Python 
 - p001-hola-mundo.py
 - p002-area-circulo.py
 - p003-area-triangulo.py
@@ -35,7 +35,7 @@
 - p028-retira-cuenta.py
 - p029-calculadora-descuento.py
 
-## Actividad 4 Ejecución condicional (Parte 2)
+## Actividad  Ejecución condicional (Parte 2)
 - p030-verifica-suma.py
 - p031-2da-ley-de-newton.py
 - p032-aceptar-estudiante.py
@@ -50,6 +50,19 @@
 - p041-aceptar-estudiante-v2.py
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py
+
+# 07 - Ejecución repetitiva - Parte 1
+
+## Actividad de ciclos y repetición
+- p043-calculadora-anio-bisiesto.py
+- p044-conteo-ascendente.py
+- p045-conteo-ascendente-v2.py
+- p046-conteo-descendente.py
+- p047-conteo-descendente-v2.py
+- p048-multiplos-continue.py
+- p049-sumar-consecutivos.py
+- p050-conteo-numeros.py
+- p051-adivina-numero.py
 
 ## Enlace al repositorio
 [Repositorio de GitHub](https://github.com/rdzliliana27-oss/Ejercicios-Python.git)
