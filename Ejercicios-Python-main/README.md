@@ -27,3 +27,13 @@
 - p050-conteo-numeros.py
 - p051-adivina-numero.py
 
+# 08 - Ejecucion repetitiva - Ciclo while
+
+## Ejemplos practicos
+- p052-tabla-conversion.py
+- p053-conjetura-collatz.py
+- p054-tabla-multiplicar-while-v1.py
+- p055-tabla-multiplicar-while-v2.py
+- p056-contador-vocales.py
+- p057-interes-simple.py
+
