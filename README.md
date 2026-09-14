@@ -93,6 +93,12 @@
 - p071-suma-promedio-numeros.py
 - p072-suma-mutiplos.py
 - p073-cifrado-cesar.py
+- p074-tablas-todas.py
+- p075-triangulo-caracter.py
+- p076-piramide-caracter.py
+- p077-factorial-numeros.py
+- p078-combina-colores.py
+- p079-suma-potencias.py
 
 ## Enlace al repositorio
 [Repositorio de GitHub](https://github.com/rdzliliana27-oss/Ejercicios-Python.git)
