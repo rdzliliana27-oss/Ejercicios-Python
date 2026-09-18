@@ -100,5 +100,14 @@
 - p078-combina-colores.py
 - p079-suma-potencias.py
 
+# 10 - Tarea 04 - Ciclo for
+
+## Ejercicios
+- p080-compara-rendimiento-inversion.py
+- p081-plan-ahorro-depistos-mensuales.py
+- p082-cuadro-hueco-caracter.py
+- p083-rombo-caracter.py
+- p084-triangulo-invertido-numeros.py
+
 ## Enlace al repositorio
 [Repositorio de GitHub](https://github.com/rdzliliana27-oss/Ejercicios-Python.git)

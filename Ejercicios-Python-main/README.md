@@ -57,3 +57,12 @@
 - p072-suma-mutiplos.py
 - p073-cifrado-cesar.py
 
+# 10 - Tarea 04 - Ciclo for
+
+## Ejercicios
+- p080-compara-rendimiento-inversion.py
+- p081-plan-ahorro-depistos-mensuales.py
+- p082-cuadro-hueco-caracter.py
+- p083-rombo-caracter.py
+- p084-triangulo-invertido-numeros.py
+
