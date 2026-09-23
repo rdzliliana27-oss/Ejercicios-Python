@@ -65,4 +65,5 @@
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+- p085-simulador-venta-combustible.py
 

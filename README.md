@@ -108,6 +108,7 @@
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+- p085-simulador-venta-combustible.py
 
 ## Enlace al repositorio
 [Repositorio de GitHub](https://github.com/rdzliliana27-oss/Ejercicios-Python.git)
