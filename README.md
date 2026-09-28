@@ -110,5 +110,15 @@
 - p084-triangulo-invertido-numeros.py
 - p085-simulador-venta-combustible.py
 
+# 11 - Listas en Python
+
+## Programas hechos en clase
+- p086-acceder-lista.py
+- p087-modificar-lista.py
+- p088-agregar-lista.py
+- p089-eliminar-lista.py
+- p090-iterar-lista.py
+- p091-lista-de-gastos.py
+
 ## Enlace al repositorio
 [Repositorio de GitHub](https://github.com/rdzliliana27-oss/Ejercicios-Python.git)
