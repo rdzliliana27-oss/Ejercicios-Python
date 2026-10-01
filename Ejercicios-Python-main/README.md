@@ -67,3 +67,21 @@
 - p084-triangulo-invertido-numeros.py
 - p085-simulador-venta-combustible.py
 
+# 11 - Listas en Python
+
+## Parte 1
+- p086-acceder-lista.py
+- p087-modificar-lista.py
+- p088-agregar-lista.py
+- p089-eliminar-lista.py
+- p090-iterar-lista.py
+- p091-lista-de-gastos.py
+
+## Parte 2
+- p092-procesar-calificaciones.py
+- p093-consolidar-ventas.py
+- p094-precio-acciones.py
+- p095-registro-estudiantes.py
+- p096-procesar-datos-sensores.py
+- p097-producto-punto.py
+
