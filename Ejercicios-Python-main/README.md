@@ -92,4 +92,12 @@
 - p101-clasificar-temperaturas.py
 - p102-aplanar-matriz.py
 - p103-resumen-ventas.py
+- p104-procesar-notas.py
+- p105-listas-multiplica.py
+- p106-mes-día-nombre.py
+- p107-listas-aleatorios-suma.py
+- p108-ciudades.py
+- p109-lista-impares.py
+- p110-comprension-filtra-palabras.py
+- p111-comprension-pares-cuadrados.py
 
