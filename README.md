@@ -144,5 +144,15 @@
 - p110-comprension-filtra-palabras.py
 - p111-comprension-pares-cuadrados.py
 
+# 12 - Diccionarios en Python
+
+## Programas hechos en clase
+- p112-datos-estudiante.py
+- p113-calificaciones-estudiante.py
+- p114-nombres-edades.py
+- p115-conversor-unidades.py
+- p116-conversion-divisas.py
+- p117-punto-de-venta.py
+
 ## Enlace al repositorio
 [Repositorio de GitHub](https://github.com/rdzliliana27-oss/Ejercicios-Python.git)
