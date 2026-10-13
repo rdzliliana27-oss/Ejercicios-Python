@@ -111,3 +111,19 @@
 - p116-conversion-divisas.py
 - p117-punto-de-venta.py
 
+## Diccionarios en Python - Parte 2
+
+### Programas hechos en clase
+- p118-lote-autos.py
+- p119-registro-estudiantes.py
+- p120-reporte-ventas.py
+- p121-area-figuras.py
+
+### Ejercicios
+- p122-crear-acceder-diccionario.py
+- p123-modificar-diccionario.py
+- p124-agregar-diccionario.py
+- p125-eliminar-diccionario.py
+- p126-procesar-diccionario.py
+- p127-contar-caracteres.py
+
