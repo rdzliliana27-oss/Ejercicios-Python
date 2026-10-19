@@ -127,3 +127,9 @@
 - p126-procesar-diccionario.py
 - p127-contar-caracteres.py
 
+# 13 - Conjuntos en Python
+
+## Programas hechos en clase
+- p128-municipios.py
+- p129-operaciones-conjuntos.py
+
