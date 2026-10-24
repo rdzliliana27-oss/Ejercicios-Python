@@ -137,3 +137,9 @@
 - p130-conjunto-personas.py
 - p131-conjunto-numeros.py
 
+# 14 - Tuplas en Python
+
+## Programas hechos en clase
+- p130-coordenadas.py
+- p131-alumnos-tuplas.py
+
