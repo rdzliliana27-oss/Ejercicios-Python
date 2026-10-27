@@ -140,6 +140,9 @@
 # 14 - Tuplas en Python
 
 ## Programas hechos en clase
-- p130-coordenadas.py
-- p131-alumnos-tuplas.py
+- p132-coordenadas.py
+- p133-alumnos-tuplas.py
 
+## Tarea 8 - Tuplas
+- p134-coordenadas-tuplas.py
+- p135-alumnos-tuplas.py

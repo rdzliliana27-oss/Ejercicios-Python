@@ -188,3 +188,7 @@
 ## Programas hechos en clase
 - p130-coordenadas.py
 - p131-alumnos-tuplas.py
+
+## Tarea 8 - Tuplas
+- p133-coordenadas-tuplas.py
+- p134-alumnos-tuplas.py
