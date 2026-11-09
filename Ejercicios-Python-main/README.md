@@ -146,3 +146,14 @@
 ## Tarea 8 - Tuplas
 - p134-coordenadas-tuplas.py
 - p135-alumnos-tuplas.py
+
+# 15 - Funciones que operan con estructuras de datos
+
+## Programas hechos en clase
+- p153-suma-lista.py
+- p154-lista-pares.py
+- p155-mayor-menor.py
+- p156-mayores-promedio.py
+- p157-pares-impares.py
+- p158-aleatorios.py
+- p159-nombres.py
